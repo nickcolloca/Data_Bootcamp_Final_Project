@@ -10,4 +10,4 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 
 Project Description
 
-Insert one paragraph description of your project
+This project will study whether NBA player's are paid appropriately based on their stats (points, assists, rebounds, etc.). My project will describe and display these differences in player statistics and salaries, at first at the individual level, then up to the team level. Using this I should be able to estimate what players are really worth to their teams, as well as what teams are most frequently overpaying or underpaying for players. The data being used comes from ESPN, BasketballReference, and RealGM. The goal is to determine whether NBA players are paid fairly for what they contribute to their teams, and if not, who is being overcompensated or undercompensated.
